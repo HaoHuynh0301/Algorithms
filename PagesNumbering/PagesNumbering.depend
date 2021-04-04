@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617421909 source:d:\algorithms\pagesnumbering\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
